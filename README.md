@@ -19,7 +19,7 @@ This is my code solution to the [Results summary component challenge on Frontend
 
 ### Screenshot
 
-![Qr_code_preview_screen_shoot](https://user-images.githubusercontent.com/125945721/221359141-18ac889a-3902-4a6c-ab64-16a0d0cb1b11.jpg)
+![Screenshot Results Summary](https://user-images.githubusercontent.com/125945721/224996845-66d80488-ee6b-4da8-8e1f-e1a7ba506c8a.png)
 
 ### Links
 
