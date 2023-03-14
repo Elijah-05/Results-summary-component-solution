@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Results-summary-component-solution/static/css/main.a130e528.css",
+    "main.js": "/Results-summary-component-solution/static/js/main.fb153c7d.js",
+    "static/media/HankenGrotesk-VariableFont_wght.ttf": "/Results-summary-component-solution/static/media/HankenGrotesk-VariableFont_wght.d642a5d85689aa7d33db.ttf",
+    "static/media/Screenshot Results Summary.png": "/Results-summary-component-solution/static/media/Screenshot Results Summary.3eaedd61e247e8d1bf12.png",
+    "static/media/HankenGrotesk-Medium.ttf": "/Results-summary-component-solution/static/media/HankenGrotesk-Medium.234bf52fb6d6a56a561d.ttf",
+    "static/media/HankenGrotesk-ExtraBold.ttf": "/Results-summary-component-solution/static/media/HankenGrotesk-ExtraBold.97e81bf3b3e87ffcef41.ttf",
+    "static/media/HankenGrotesk-Bold.ttf": "/Results-summary-component-solution/static/media/HankenGrotesk-Bold.1161826a8f452bc76b77.ttf",
+    "static/media/README.txt": "/Results-summary-component-solution/static/media/README.c95278e4e384bda97123.txt",
+    "static/media/icon-memory.svg": "/Results-summary-component-solution/static/media/icon-memory.22a9e0501e58960f3c34.svg",
+    "index.html": "/Results-summary-component-solution/index.html",
+    "static/media/icon-visual.svg": "/Results-summary-component-solution/static/media/icon-visual.61fc2697d5094b6e3962.svg",
+    "static/media/icon-verbal.svg": "/Results-summary-component-solution/static/media/icon-verbal.cc1204a0b0559da591a3.svg",
+    "static/media/icon-reaction.svg": "/Results-summary-component-solution/static/media/icon-reaction.0c1d6b98b4559ba72276.svg",
+    "main.a130e528.css.map": "/Results-summary-component-solution/static/css/main.a130e528.css.map",
+    "main.fb153c7d.js.map": "/Results-summary-component-solution/static/js/main.fb153c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a130e528.css",
+    "static/js/main.fb153c7d.js"
+  ]
+}
