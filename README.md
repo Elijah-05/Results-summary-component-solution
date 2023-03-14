@@ -24,7 +24,7 @@ This is my code solution to the [Results summary component challenge on Frontend
 ### Links
 
 - Solution URL: [Solution Code File](https://github.com/Elijah-05/Results-Summary-Component-Solution)
-- Live Site URL: [Solution Preview](https://elijah-05.github.io/Results-Summary-Component-Solution/)
+- Live Site URL: [Solution Preview](https://elijah-05.github.io/Results-summary-component-solution/)
 
 ## My process
 
